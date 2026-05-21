@@ -14,7 +14,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/RupaSMore" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/rupali-m-551373102/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate Software Tester with Manual and Automation Testing using Java Selenium Web driver, Including different types of testing like Functional, compatibility, UI/UX, Regression, System, Sanity, Smoke. Worked on web based applications to make sure they meets the quality standards as per the customer requirements. Involved in designing Test cases, Test scenarios, Executing test cases and reporting bugs. Sent different types of test reports to client like Daily status reports, weekly status reports, monthly status repo</h3>**
+ **<h3 align="left">🚀 Passionate Software Tester with Manual and Automation Testing using Java Selenium Web driver, Including different types of testing like Functional, compatibility, UI/UX, Regression, System, Sanity, Smoke. Worked on web based applications to make sure they meets the quality standards as per the customer requirements. Involved in designing Test cases, Test scenarios, Executing test cases and reporting bugs. Sent different types of test reports to client like Daily status reports, weekly status reports, monthly status reports, Exposure to Playwright Automation </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 

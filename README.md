@@ -19,7 +19,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Testing a new e-commerce platform using selenium**
-- 🌱 I'm currently learning: **📚 Exploring playwright **
+- 🌱 I'm currently learning: **📚 Exploring playwright using Javascript**
 - 💬 Ask me about: **💡 Manual testing concepts, Java, Selenium, API**
 - ⚡ Fun fact: **🎢 Learning new things never ending**
 

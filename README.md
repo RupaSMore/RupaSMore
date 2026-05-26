@@ -20,7 +20,7 @@
 
 - 💼 I'm currently working on: **💻 Testing a new e-commerce platform using selenium**
 - 🌱 I'm currently learning: **📚 Exploring playwright using Javascript**
-- 💬 Ask me about: **💡 Manual testing concepts, Java, Selenium, API**
+- 💬 Ask me about: **💡 Manual testing concepts, Java, Selenium, API testing, Playwright**
 - ⚡ Fun fact: **🎢 Learning new things never ending**
 
  **<h3 align="left">Skills</h3>**
